@@ -1,0 +1,41 @@
+asttokens==2.4.1
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1733218098505/work
+comm==0.2.2
+debugpy==1.8.5
+decorator==5.1.1
+exceptiongroup @ file:///home/conda/feedstock_root/build_artifacts/exceptiongroup_1733208806608/work
+executing==2.1.0
+importlib_metadata @ file:///home/conda/feedstock_root/build_artifacts/importlib-metadata_1733223117029/work
+ipykernel==6.29.5
+ipython==8.27.0
+jedi==0.19.1
+jupyter_client==8.6.2
+jupyter_core==5.7.2
+matplotlib-inline==0.1.7
+nest-asyncio==1.6.0
+numpy==2.2.1
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1733203243479/work
+pandas==2.2.3
+parso==0.8.4
+pdf2image==1.17.0
+pickleshare @ file:///home/conda/feedstock_root/build_artifacts/pickleshare_1733327343728/work
+pillow==11.1.0
+platformdirs==4.3.3
+prompt_toolkit==3.0.47
+psutil==6.0.0
+pure_eval==0.2.3
+Pygments @ file:///home/conda/feedstock_root/build_artifacts/pygments_1733221634316/work
+PyPDF2==3.0.1
+pytesseract==0.3.13
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1733215673016/work
+pytz==2024.2
+pywin32==306
+pyzmq==26.2.0
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1733380938961/work
+stack-data==0.6.3
+tornado==6.4.1
+traitlets==5.14.3
+typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1733188668063/work
+tzdata==2024.2
+wcwidth==0.2.13
+zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1732827521216/work

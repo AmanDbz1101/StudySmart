@@ -1,0 +1,177 @@
+Questions
+02 TRIBHUVAN UNIVERSITY Exam.  INSTITUTE OF ENGINEERING | Level | BE : | Full Marks | 80 |  Examination Control Division | Programme | All(ExceptB.Arch.) | Pass Marks | 32 2075 Ashwin | Year/Part | Ii/I Time aa]  pn net et A RC  t  Y Candidates are required to give their answers in their own words as far as practicable. ¥ Attempt All questions. Y The figures in the margin indicate Full Marks. ¥ Assume suitable data if necessary.
+1. Define the determinant as a function and using its properties. Show that b+c cta a+b) ja p x —~ |qtr r+p ptql=2b q [5] y+z Z+x x+y) fc r z
+"2. If A and B are orthogonal matrices of same order, prove that the product AB is also orthogonal. {5}"
+"3. Test the consistency of the system x—-2y+2z=4, 3x+y+4z=6 and x+y+z=1 and solve completely if found consistent. [5] 5 4"
+"4. Foramatrix A= ( , find the modal matrix and the corresponding diagonal matrix. [5] a ."
+5. Prove that line integral 3 F.dr is independent of path joining any two points A and B in > O° the region if and only if [F dr =0 for any simple closed curve C in the region. [5]
+"6. Verify Green’s theorem in the plane for (be ~8y"" jax +(4y- 6xy)dy] where C is region bounded by y=x? and x= y’. [5] id > > 2 3° ."
+"7. Evaluate [Fen ds where F=6zi-4j+yk and S is the region of the plane 2x +3y+6z=12 bounded in the first octant. eee [5] , 7 > 2 > 3 > >"
+"8. Evaluate using Gauss divergence theorem, f (Fa ds where F=x“yi+xy~ j+2xyzk and S is the surface bounded by the planes x = 0, y =0,z=0,x+2y+z=2. [5]"
+9. Obtain the Fourier Series to represent f(x) =x—- x? from x =—m tox =7 and deduce that . Sf [5] os a ce
+10. Obtain the half range Fourier Sine Series for f(x) = 1 - x in the range 0 <x <7. [5]
+11. State the conditions for existence of Laplace transform. Obtain the Laplace transform of: a fee: gl [14242]
+12. Find the inverse Laplace transform of:  I  - =f GDS +) = HS D (ii) cot” (S+))  (i)
+"13. Solve the following intial value problem by using Laplace transform:  y""+4y'+3y=e' , y(0)=0;y‘(0)=2"
+"14. Graphically maximize Z = 7x; + 10x2  Subject to constraints: 3x, +X, <9 X, +2x, $8 Kuk, 20."
+"15. Solve the following linear Programming Problem by simple method:  Maximize: Z=3x, +5x, Subject to: 3x, +2x. $18 x, $4, xX, $6 X1,X_ 20.  REE  [2.5+2.5]  [5]  [5]  [10]"
+01 TRIBHUVAN UNIVERSITY : Regular INSTITUTE OF ENGINEERING | BE | FullMarks [80  Examination Control Division | Programme 32 2074 Chaitra Year / Part  Subject: - Engineering Mathematics I (SH501)  Candidates ate required to give their answers in their own words as far as practicable. Attempt All questions.  The figures in the margin indicate Full ales  Assume suitable data if necessary.  ~ SUN X  2 a a )
+1. If}b b* b?-1=0 — a+b #c; apply properties of dsterminaait to show abc = 1. [5]  c ce? c-]
+"2. If A be ann x n matrix, prove that Adj (A). A= A. (AdjA) = | A| I where I is an n x n unit matrix. [5]"
+3. Find the rank of the following matrix by reducing it into normal form: 2 ee la a s 8 -3 44 1 2 of
+4. Find the modal matrix for the matrix  2-1-4 Asia? i 4 [5]  [5]  2 1 -1
+5. State and prove Green’s theorem in plane. [5]
+"6. Find the total work done in moving the particle in a force field given by Fx Siny i+x(1+cosy)} over the circular path x? +y? =a”, z=0. [5]  > >"
+"7. Evaluate [[Fas where Pox iy (ab and s is the surface of the cylinder x? +y? =a7,0<z<b. [5]  + > >"
+"8. Verify Stoke’s theorem for F =(x? +y”) i—2xy j taken round the rectangle bounded by  the lines x= +a,y=0,y=b. [5]"
+"9. Obtain Fourier series for f(x) = x? in the interval -n <x <7. [5] 10, Express f(x) = e* as.a half range Fourier Cosine Series in 0 < x1. [5]"
+11. State existence theorem for Laplace Transform. Obtain the Laplace transform of et 9b
+a) te sint b) 14242]
+12. Find the inverse Laplace transform of:  _— b) tan 2 s° —5s+6 s
+"13. By using Laplace transform, solve the initial value problem:  y"" + 2y=r(t), y(0) =y' (0) =0 Where r(t) = 1,0<t<1 = 0, otherwise"
+"14. Graphically maximize Z = 5x; + 3x2 Subject to constraints Xx, +2x, <50 2X, +X, 540. X,,X_ 20"
+"15. Solve the following Linear Programming Problem by simple method:  Maximize : Z = 4x +3y  Subject to : 2x +3y <6 -x +2y <3 2y <5 a2xty<4 x, y 20.  *  {245225}  [5]  [5]  [10]"
+"01 TRIBHUVAN UNIVERSITY | Exam. Back  INSTITUTE OF ENGINEERING | Level ee BE _ __, Full Marks | 80 =. Examination Control Division | | Programme | ALL (Except B. Arch) Pass Marks _ | 32 2074 Ashwin ; Year/Part _ 1 St es AB  __ Subject: - - - Engineering, Mathematics Ii Il (SHSO1, i:  Y Candidates are required to give their answers in their own words as far as ee v¥ Attempt All questions.  v The figures in the margin indicate Full Marks.  ¥ Assume suitable data if necessary."
+1. Use properties of determinant to show [5]  x? a as yz y> y?-(z-xy zx|=(x-yMy-z(z—-x)(x+y+Z\(x’ +y? +2’)  z z’-(x-y) xy
+2. Prove that every square matrix can be uniquely expressed as the sum of symmetric and a skew symmetric matrix. [5]
+3. Define eigen values and eigen vectors in terms of linear transformation with matrices as operator. Find eigen values of the matrix. [2+3]  2 oe 2 1 -6 -i -2 0
+"4. Test the consistency of the system x+y+z=3, x+2y+3z=4, 2x+3y+4z=7 by using rank of matrix method and solve if consistent. [5]"
+"5. If F is the gradient of some scalar point functions @ ic F=V, prove that the line integral is independent of the path joining any two points in the region and conversely. [5]"
+6. Evaluate {[Fa ds. where F SEXY fe x? jt (x+ z)K and S is the region of the plane 2x+2y+z=6 bounded in the first quadrant. [5]
+7. State and prove Green's theorem in plane. =i}
+"8. Apply Gauss’ divergence theorem to evaluate f { G - yz)i- 2x?y j+ 2K [a ds , where S  is the surface of the cube bounded by the planes x = 0, x =a, y=0, y=a,z=0,z=a. {5]"
+9. Expand f(x) = x sinx as a Fourier series in-17 <x <7. . [5]
+10. Obtain half range cosine series for f(x) = x in the interval 0 <x <7. ‘[5]
+11. Find the Laplace transform of: = [3+2]
+i) t? cosat  ii) =  if
+£3.
+"14.  LS.  . State convolution theorem for inverse Laplace transform and use it to find the inverse  Ss (S? +4)(S? +9)  Solve the following initial value problem by using Laplace transform: [5]  y'+2y'—3y =sint, y(0)= y'(0) =0  Laplace transform of [1+4]  Graphically maximize [5] Li= 1%, +10x5 Subject to constraints, 3x, +Xgt? X,+2x, $8 X,.%, 20 Solve the following LPP by simplex method using duality of: [10] Minimize Z = 20x+50y Subject to: 2x+5y 212 3x+7y 217 x,y20"
+01 TRIBHUVAN UNIVERSITY ‘Exam. RSE ee Later Batch)  INSTITUTE OF ENGINEERING —_Level __ BE |Full Marks 80. Examination Control Division Programme | ALL (Except B. Arch) | | Pass Marks | 32 2073 Shrawan | Year/Part i/I ___ Time == hrs. |  Y Candidates are required to give their answers in their own words as far as practicable. v Attempt All questions.  Y The figures in the margin indicate Full Marks.  Y Assume suitable data if necessary.  2 be  ac+c?
+1. Use properties of determinants to prove: ja* + ab b? ac |=4a7b’c? [5] =< ab ob’ +be Oe” :
+2. Prove that the necessary and sufficient condition for a square matrix A to posses an  inverse is that the matrix A should be non singular. [5] 1-3 =2 41 : Safle le = ak
+3. Find the rank of the matrix [5] 2) =3-2 3 3 -3 3 by reducing it into normal form. 2 od
+4. Find the eigenvalues and eigenvectors of the matrix} 1 2 1 [4+1] 001 Give an example showing importance of eigenvectors.  _3. Show that F =(2x+2’ yi+ Zj+ (y+ 2xz)K is irrotational and find its scalar potential. [5]
+6. State and prove Green's Theorem in plane. [5]
+"7. Evaluate [[F-a ds, where F =z i+ Tx jt xyk and S is the surface of the sphere  x? +y? +z’ =1 in the first octant. [5]"
+"8. Evaluate [ xydx+xy’dy by applying stokes theorem where C is the square in xy-plane  with vertices (1,0), (-1,0), (0,1), (0,-1) [5]"
+9. Find the Laplace transform of : [2+3]
+"i) te sin3t =, © sint"
+i) -—_——_—_
+10. Find the inverse Laplace transform of :
+"i) s+2 s°—45+413  ii) lo S** ‘i 4 s-a  Solve the following initial value problem using Laplace transform:  x""4+4x'44x=6e""', x(0)=-2, x'(0)=-8  Ble  fou"
+"12. Find the Fourier series representation of f(x) = {x| in [-z, 7]"
+"13. Obtain the half range Fourier Sine Series for the function f(x) = x’ in the interval (0, 3);"
+"14. Apply Graphical method to maximize, Z=5x, +3x, Subject to the constraints: X, +2x, <50 2x, +x, $40 x, 20, x, 20"
+"15. Solve the following Linear Programming Problem by Simplex method: Maximize: Z=15x, +10x, Subject to: x, +3x, $10 25, +X, S10 x, 20;-2,220  RK  [2+3]  [5]  [5]  [5] [5]  [10]"
+"01 TRIBHUVAN UNIVERSITY { Exam.  INSTITUTE OF ENGINEERING Level __ BE ; | Full ull Marks 80  Examination Control Division | | Programme | | All xcept B. Arch) P: Pass Marks | 32  jee  2072 Chaitra Year / Part Il/I Time Ta 3 his.  Candidates are required to give their answers in their own words as far as practicable. Attempt All questions,  The figures in the margin indicate Full Marks.  Assume suitable data if necessary.  Use properties of determinants to prove: [5] a?+1 ba ca da ab b’+1 ~~ eb db  5 on =l+a° +b? +07 +0’ ac c e+ c  ad bd cd = d? +1  Show that every square matrix can be uniquely expressed as the sum of symmetric and  Skew-Symmetric matrices. [5]  Test the consistency of the system x+y+z=3,x+2y+3z=4and2x+3y+4z=7 and  solve completely if found consistent. [5] <2. 2 =3Y  State Cayley-Hamilton theorem and verify it forthe matrix; A=! 2 1 - ; {1+4] -1 -2 0  > - = . Prove that "" The line integral { F.dr of a continuous function F defined in a region R is e  independent of path C joining any two points in R if and only if there exists a single  valued scalar function $ having first order partial derivatives such that F =Vq"". [5]  State Green's theorem and use it to find the area of astroid x7? + y7? =a"", [5]  Evaluate [{Fn ds, where F=x? ity? j+z22k and 's' is the surface of the plane  x+y +z= 1 between the co-ordinate planes. [5]  Apply Gauss’ divergence theorem to evaluate | (Fn ds where  F =(x’ ~yz)i- 2x?y j+ 2k and 's' is the surface the cube bounded by the planes x=0,x=a,y=0,y=a,z2=0,z=a. [5]"
+9. Find the Laplace transform of: i [2+3]
+"i) tSin?3t Sin2t 10, Find the inverse Laplace transform of: {2+3] ' 1 » s°—3s+2 —— s(s +1)"
+"11. Apply Laplace transform to solve the differential equation: [5]  y""t2y'+5y =e 'sint, x(0)=0,x'(0)=1"
+12. Find a Fourier series to represent f(x) =x~ x? fromx =—-n to x=7. Hence show that  oe a n  a ee eee =— 5 Yo 12 Pl
+13. Develop f(x) = sin in half range Cosine Series in the range 0 < x < L. [5]
+"14. Graphically maximize, Bi Z=7x, +10x, Subject to constraints, 3x, +x, $9 x, +2x, $8 x, 20,4528"
+"15. Solve the following LPP using simplex method. [10] Maximize: P = 50x, + 80x, Subject to: x, +2x, <32 3x, +4x, $84 =, 20,x, 20  KK"
+"ANNAN  i"" .  01 TRIBHUVAN UNIVERSITY [Exam INSTITUTE OF ENGINEERING [Level | BE _| Full Marks | 80 j Examination Control Division Li Programme | B Arh ener Pass Marks | 32  2071 Chaitra ry | Year/Part {| U ‘A | Time i 3 hrs.  7  Subject: - ‘Engineering Mathematics Il (SH501)  Candidates are required to give their answers in their own wards as far as practicable.  Attempt All questions. The figures in the margin indicate Full Marks. Assume suitable data if necessary.  Using the properties, evaluate the determinant: [5] a a? a’+bed b b’ b’+cda cc’ ¢?+abd d @ d’+abc  Loin’ nN  Prove that every square matrix can uniquely be expressed as the sum of a symmetric and a skew symmetric matrix. = [5]  . Test the consistency of the system: os , [5]  x-6y—z=10, 2x—2y+3z=10, 3x-8y+2z=20 And solve completely, if found consistent.  22 1 - Find the eigen values and eigenvecters of the matrix} 1 3 1/4. [5] , 12 2  . Using the line integral, compute the workdone by the force . [5]  > > > > F =(2x-—y+2z)i+(x+y—z) j+(3x—-—2y—5z)k ""when it moves once around acircle x? + y? =4;z=0  State and prove Green's Theorem in plane. [5]  . Verify Stoke's theorem for Fe (ty 9 in 2ayj j taken around the rectangle bounded by the  lines x =ta, y=0, y=b. [5]  Evaluate i} [Fn ds where F =(2xy+z) ity? j- (x+ 3y)K by Gauss divergence theorem; where S is surface of the plane 2x +2y+z=6 in the first octant bounding the volume V. __[5] Find the Laplace transform of the following: [2.5*2]"
+a) te cost >  -b) Sinhat.cost
+"10. Find the inverse Laplace transform of : ; , SS+1) s?"
+a)
+"b)  [2.5%2]  i. Solve the differential equation y''+2y't+5y =e""'sint, y(0)=0,y'(0) =1, by using. Laplace  ’ transform.  a . . ° ° . au . Expand the function f(x) = sin x as a Fourier series in the interval -t <x <7.  A 13. Obtain half range sine series for the function f(x) =x—-x’ for0<x <1."
+"14. Graphically maximize and minimize z= 9x + 40y subjected to the constraints y-x2 lLy-x<3,2<x<5"
+"15. Solve the following Linear Programming Problem by Simplex method: Maximize, P = 20x, —5x, Subjected to, 10x, —2x, $5  2x, +5x, <10andx,,x, 20  . # *EK  [5] [5] 5] [5]  [10]"
+ee ee  2070 Chaitra am  7 _ Subject: -M - Mathematics lil Til (SH501)  ¥ Candidates are required to give their answers in their own words as far as practicable  ~ Attempt All questions. ~ The figures in the margin indicate Full Marks.  Y Assume suitable data if necessary.
+1. Using the properties of determinant prove  01 TRIBHUVAN UNIVERSITY {Exam INSTITUTE OF ENGINEERING | [Level | BE _ Full Marks | 80 Examination Control Division | ke Programme | All (Except B.Arch) | Pass Marks | 3 {Year / Part TWt _ Time i 3hrs. }  [5]  (b+c)? a? a? b> (etal? —sbb?_—s = 2abc(a+bt+c)? | ? (aby?
+2. Prove that (AB)' = B'A™ where A is the matrix of size mxp and B is the matrix of size pxn [5] 1 3 -2 1
+3. Find the rank of the following matrix by reducing normal form. Prod 20 -3 2 [3 3 -3 3] _ 20 1]
+4. Find the eigen values and eigen vectors of the following matrix.}0 2 .-1 00 2
+5. Pr Ove that the line intergral ral f° F dr r is independent of the path joining any two points A  and Bina region if [F F dr r = 0 for any simple closed curve C in the region
+6. E F.n F=x2 ity? ty 52 Valuate [Fn ds where F = x2 it+y? j+z? k and S is the finite lane x + between the coordinate planes. mex ty te  5]  aS  Evaluate F.n | F=yzi j k | ut nds _ for F=yzitzx j+xyk where § is the surface of sphere  x? ty? 4277 =] in the first octant.
+"7. Evaluate, [{F. =xi-y; k | [fF nds for F=x i-y j+(z?-1)k where S is the surface bounded b y  cylinder x? + y? = 4 and the planes z = 0 and z = |  the [5]"
+a
+"8. Verify the stoke’s theorem for F =(2x-y)i- yz? j- y?zk where S is the upper part of  the sphere x? + y* +z” =a°C is its boundary.  T 9, Find the Laplace transform of (a) t? sinzt and (b) Ine  3"
+10. Find the inverse Laplace transform of (2) Sw  s°+5s-6 s‘—a‘
+"11. Solve the following differential equation by using Laplace transform y’’ty’-2y =x, y(0) = 1, y°(0) = 0"
+12. Obtain the Fourior series for f(x) = x’ in the interval -1 <x < m and hence prove that
+"13. Obtain half range sine series for f(x) = mx- x’ in (0, 7)"
+"14. Graphically minimize z= 4x, +3x, +X; Subject to x, + 2x. + 4x; 212 3x, + 2x, +X3 28 and X,,X,x; 20"
+"15. Minimize z= 8x, +9, Subject to x; +3X2 24  2x, +X, 25 with x,,x, 20  £*F  [5]  [2.5x2]  [2.5x2]  (5]  [5]  [5] [5]  [10]"
+"“62. TRIBHUVAN UNIVERSITY INSTITUTE OF ENGINEERING _ Examination Control Division, | 2069 Ashad.  “Subject: - Engineering Mathema cs II GH 501)  ‘Candidates are required to give their answers in their wn words as far: as practicable.  Attempt All questions. The figures in the margin indicate Full Marks, Assume suitable data if necessary. -  NANA  Find the value of the determinant: _  Ge  a? a? bed) b? +cdal- ce? c?+dab ‘d? d+abc  rs a anes er ae ew aaa ory Oo oc DM o"
+"i)  Qa  Prove that every square matrix can be uniquely expressed as the sum of a symmetric a and a skew-symmetric matrices. , ,  : Find the rank of matrix: ‘reducing to echelon form. -  \w wn  | Ww NO ee"
+3. -3  wmwoN w KH ws
+4. Verify Cayley-flamiltan theorem for the matrix: | 4  ce 5y Find the Laplace transforms of: (a) te™ ‘sint (b) ef —00s6t
+"6. If L{ft)]=F(s), then prove that L{t*(O]-SF()-f(0). % Use Laplace transform to solve: x""+2x’ +5x=€4 sint given x(0)=0; OF! | . 8. Obtain the Fourier series for f(x)"" in the interval MSXET. “9. Obtain half- “range sine series for e* in (0, 1). +10 Maximize Z=2K)43K2 subject to constraints x}—x)<2. xi txy24 and X1, 1X20 graphically."
+"11. Solve the linear programming problems by simplex method constructing the duality  Minimize Z = 3xjt2x2 _ .- Subject to 2x;+4x.210- ~ 4X)4+2x2210 x224 and x1, x220  [5]  [5]  5]  #5}  [5] [5]. [5]. [5] [10]"
+12. Prove that F= (2x2? +6y)i +(6x-2yz) j j Hore YK is conservative vector field and  find its scalar potential function.
+13. Evaluate J[Faes where F= x? i+y? jez? k and S$ is the finite plane | tye  between the co-ordinate planes. . x2/3 7 a
+"14. Using Green’ s theorem, find the area of the hypocyeloid = B saz le"
+15. Evaluate [Fa ds where F= 2xi i+ 3yj j+4z k and Si is the surface of sphere apd =] by Gauss divergence theorem: .  ‘OR  a  Verify Stoke’ s theorem for F= 2yi i+ 3x j j-z 2K where S is the upper half of the sphere xy +29 and ‘C’ is its s boundary.  eK  ~ 65)  15]  15] 5]  (5)
+02 TRIBHUVAN UNIVERSITY [Exam |  INSTITUTE OF ENGINEERING [Level __| BE Full Marks | 80 Examination Control Division | programme | acne | Pass Marks | 32 | 2069 Chaitra [Year/Part |l/I  __—_—i| Time iShrs. |  Subject: - Engineering Mathematics Il (SH501)  Y¥ Candidates are required to give their answers in their own words as far as practicable. ¥ Attempt All questions.  v¥ The figures in the margin indicate Full Marks. .  v Assume suitable data if necessary.  a? a’—(b-c)’ be
+1. Find the value of the determinant b? b?~-(c-a)* ca [5] c? ¢?-(a—b)? ab
+2. Show that the matrix.B° AB is Hermitian or skew-Hermittian according as A is Hermitian  and skew- Hermitian. a [5] 6 1 3 8 : .|4 2 6 -I : .. .
+3. Find the rank of the matrix 10 39 reducing this into the triangular form. [5] 4 12 15  16  oo 102
+"4. Obtain the characteristic equation of the matrix A = |0 2 1 jand verify that it is 2 0 3  ™~  satisfied by A. . , [5]"
+"5. Evaluate [F-a, where F =(x—y) i+ (x+y)j along the closed curve C bounded by y? =x and x’=y [5]  . >> > a > >"
+"6. Find the value of the normal surface integral [Fn ds for F=xi-y j+(z’-Nk, where S is the surface bounded by the cylinder x? + y” = 4 between the planes Z = 0 and Z=1. , [5] . 2 2 2 ‘"
+"7. Using Green's theorem, find the area of the astroid x} + y3 =a [5]  > > » > , :"
+"8. Verify stoke's theorem for F =2y i+3x j-z? k where S is the upper half of the sphere x? +y? +z"" =9and C is its boundary. [5] OR  Evaluate the volume intergral ff (F dv , where V is the region bounded by the surface _ 2 > > > 2 > , x=0, y=0, y=6,z=x°,z=4 and F =2xzi-x j+y°k"
+9. Find the Laplace transforms of the following functions [2.52]
+a) te“ sin3t
+b) cosat - cos bt
+10. State and prove the second shifting theorem of the Laplace transform.
+"11. Solve the following differential equation using Laplace transform.  2 fY Woy ax given y(0) = 1, y'(0) =0 dx* dx"
+12. Obtain the Fourier series for f(x) = x? in the interval -1 <x <x and hence show that - arr tar tart A
+13. Express f(x) = x as a half-range sine series in 0 < x <2
+"14. Maximize Z = 4x,+5xz subject to constraints  2x, + 5x2 $25 1 2  xX; 2 Oand x.20  graphically BS"
+"15. Solve the following linear programming problem using the simplex method.  Maximize P = 50x)+80x2  Subject to x;+ 2x2 < 32 3x1 + 4x2 < 84 X1,X220  RE  [5] . 5]  [5]  [5] [5]  [10]  Dee poet he ct MRR a PE HNN Site Neat"
+"02 "" ‘TRIBHUVAN UNIVERSITY . { Exam. INSTITUTE OF ENGINEERING © [Tevel Examination Control Division  | BEX, BCT,  | Programme BME, BIE, B. a AGRE __ | 2068 Chaitra ; Year / (Part | Wt Time 3 hrs.  ¥ Candidates are required to give their answers in their own words as far as practicable. ¥ Attempt All questions.  ~ The figures in the margin indicate Full Marks.  v Assume suitable data if necessary...  a b cl [2bc-a? cc? b?"
+1. Prove that: |b c al =| c? 2ac —b? a? |=(a?+b?+c?—3abc)*. ; [5] ——- c ab b? a> ab—c? .
+2. Define Hermition and Skew Hermition matrix. Show that every square matrix can be  ~ uniquely expressed as the sum of a Hermition and a skew Henmition. [5]
+"3.: For what value of 2 the’ equation:x + y + z=1, x + 4y + 10z = 7 and x + ay + 4z= LS have a solution? Solve them completely in each case. . [S) _ ) 3-4 4 _-4.. Find the eigen values and eigen vectorsof A=|l -2 4. — i [5] (bbs c stl: 5 “Evaluate Far, Where C: x? = y aly? =x and F= oi CEE Po, S}., Cc"
+6. State and prove Green theorem i ina 2 plane. _ . OB)
+"7. Verify Guess divergence theorem for F =x i i+ 3 j +yz k. Taken over the ‘cube bounded byx=0,x=ly= 0, y=1,2=0;z=1. ; [5]"
+8. Find the Laplace transform of the given function (i) e sint (ii) cosat sinha {5]
+"9. Evaluate SRF ids where’ Fe -3i i+x j- yzk and s is the surface of the cylinder x+y =  9 included i in the first octant between the plane, z=0,2=4._ oe [5] ‘10, Find the inverse Laplace transform: zm: (9 a (b) log s * a) . . [5] (S-2)8+ 4) -  , ae . A Solve the equation using Laplce transform a Ay! +3y =t, 0 (0) 0, y’ = =1. [5] -"
+'” Obtain the Fourier series for f(x) = x — x” where +1 <x <l asa Fourier series of period 2. _
+14.
+"15.  . Obtain’a Fourier series to represent the function f(x) = /x/ for — m < x < m and hence.  2 Tt 1 1 1. -* deduce — =—+—-+— lt... ~ 8 yp 3? 5? -  . Obtain the half Range Sine Series f(x) = ex in 0<x<1.  OR  Solve the following by using the simplex method:  Maximize P = 15x; + 10 x2, ; . Subject to :  2x1 + X2 $10, . : .  X1 + 3x2 S10, . - -  M1, X2 20. ; :  Solve by using the dual method:  Minimize C = 21x; + 50x2, Subject to 2x) + 5x2 $12, 3x, + 7x2 S17, .. -  Xq, X2 20. . OR Solve the following LPP by using the big M-method:  Maximize P = 2x; + x2, Subject to  X, + X2 S10,  —X} + X2 22,  Xl, x2 20.  [5] (5]  (7.5)  | [7.5] |"
+02 TRIBHUVAN UNIVERSITY {Exam | Regular/Back  INSTITUTE OF ENGINEERING  Examination Control Division Programme BACK). 2068 Baishakh | Year / Part I/1  S ubject: - Engineering Mathematics III  Candidates are required to give their answers in their own words as far as is practicable. Attempt All questions.  The figures in the margin indicate Full Marks.  Assume suitable data if necessary. :  SAAN
+"1. Using the properties of determinant prove that: rly a, iy * G+ +2 (%- 2. 2) =(X _ + _ lx ty y+ Nay Ory ly 1 x le"
+"2. If A and B are two non singular matrices of the same order, prove that (ABY? =BlAT.  1212 a - _ 13 2 2"
+3. Find the rank of the following matrix reducing to normal form 243 41 3 7 4 6 2-2 2
+4. Find the eigen values and eigen vectors ofthe matrix|1 1 1 |. 1 3 -l|
+5. Find the Laplace transform of the following functions:
+a) te cos2t b) aie
+6. Find the inverse Laplace transform of the following functions:
+a) —_1__ . b) ae | _ (s—2)(s+2)* s“(s+2)
+"7. Solve using Laplace transform (D? +4D + 3)x =e"", where x(0) =x’'(0) =1."
+8. Obtain a Fourier series for f(x) = x? in the interval -n <x <1. 7  - 9. Find the half range sine series for the function f(x) =x — x’ in the interval 0 < x<l.
+"10. Maximize Z = x, + 1.5 x2 subject to constraints — ,  2x1 +. 2x2 < 160  X, + 2x2 < 120  4x; + 2x2 < 280  x, 2 0 and x2 2 0 graphically.  [5]  [5]  [5]  [5]  [5]  [5]  ~ Ob)  (5]  (5] [5].  EXAATALA AGA Sa RD AOU aed ANA Mo ARBORS RIOR ERE  ca ARPA CARI REP AEN NBER DRAINS DM Sat i NN"
+— i
+"1. Solve the following linear programming problems by simplex meihod  Maximize Z = 15x; + 10x2 Subject to 2x; + 2x2 < 10  Xt 3x2 <10 and x),x220"
+12.
+13.
+14.
+"15.  Show that the vector field F = (x? — yz)i+(y? —zx)}+(z? —xy)k is irrotational. Find |  the sector function @(x, y, Z) such that F =VoQ.:  [10] |  [5]  If S be the part of the surface Z = 9 — x’— y’ with Z > 0 and F = 3x i + 3yj + Zk, find the |  flux of F through S. State and prove that Green’s theorem in the plane.  Evaluate by Stoke’s theorem: [(e%dx + 2ydy —dz) ~ c : . Where c is the curve: x? + y°=4,z=2.. - . OR  Verify Gauss divergence theorem for the vector function F=x7i+ zj+ yzk, taken over the unit cube bounded by the planes: x =0,x=l,y=0,y=1,z2=0,z=1.  aR  [5] [5] [5]  pee eR BETTER SESE St PTA"
+95 TRIBHUVAN UNIVERSITY  NS SNNN  _ .  INSTITUTE OF ENGINEERING  2067 Ashadh  Subject: - Mathematics soa  Candidates are required to give their answers in their own words as far as practicable. _ Attempt All questions.  All questions carry equal marks. Assume suitable data if necessary.  Using the properties of determinant prove:  a7+1 ba ca da 2 .  a bt ob Gb a2 4b? 402 402 41  ac be oc’ +1 del. ;  ad bd ed d?+]  Show that every square matrix can be uniquely expressed as the sum of hermitian and a  skew-hermitian matrix.  Reduce to normal form and find the rank of the matrix: 2-2 0 6 4 2 02 1 -1 03 1-2 12 Find the eigen values and eigne vectors of the matrix 22 1 13 1 12 2 Find the Laplace transform of:
+"a) coshat sin at , b) Cos2t— cos 3t — 3t Find the inverse Laplace transform of: “1 s+1 —_——_ - b) log — ) s’(s? +a”) >) eS-1-"
+7. State and prove the integral theorem of the Laplace transform.
+"8. Solve the following differential equation using the Laplace transform.  -y"""" + 2y"" —y' —2y = 0 where y(0) = y'(0) = 0 and y""(0) = 6  0 Snag NEM EEE SOT ree  CANE ee WEITERE rit  eT Yah ETE MAT EMT"
+"9, Find a Fouricr series to reprevertx fon v - . . Hence show that mol iti,"
+10. Express f(x) = x as a cosine half range series in 0 < x <2.
+"11.The acceleration of a moving particle at any time t is given by  > 2  = =12cos 2ti—8sin 2tj +16tk. Find the velocity v and displacement r at anytime t  if . > > t=0, v =Oand r =0."
+"12. Find the angle between the normals to the surface xy = z” at the points (1,4,2) and (-3,-3,3)"
+"13. Find the work done in moving a particle once round the circle x’ + y =9, z =0 under the  ; > > _ > 2 > » force field F given by F =(2x—y+z)i+(x+y-—z’) j+(3x—-—2y+4z)k."
+"14. Evaluate [fFen ds where s is the upper side of triangle with vertices (1,0,0), (0,1,0),  ~ (0,0,1) where. F = (x—22}.3. i+(x +3y+z) j+(5x+y)k."
+"15. State Green’s theorem in a plane. Using Green’ s theorem find. the: area of x x73 + ye = =a"""
+"16. Verify Stoke’s theorem for F= = (2x - yi i- yz’ j- yz k where s is the upper part of the _ spherex’?+y’+z?=a"" and cisits boundary. ne OR  a 2 FL? 2? . 2 2 Verify Gauss theorem for F = yi+x j+z° k over the region bounded by x* + y =a’, z=0Qandz=h.  oe  oa  ae  MAS RTI IE MEEVEE TTP"
+"\  Examination Control Division | programme | 4! E*°ePt | pass Marks | 32  . rea eater ence 04 TRIBHUVAN UNIVERSITY | Exam. Back  a eennnmnnnnnn many {  INSTITUTE OF ENGINEERING i Level | BE _ Full Marks | 80 :  |  | B.Arch.) i T/1  2067 Magh - | Year / Part | Time /3hrs. |  ND w  Subject: -- Mathematics III  Candidates are required to give their answers in their own words as far as practicable. Attempt All questions.  All questions carry equal marks. Assume suitable data if necessary.  Show that =-(b—a)*.  Cc fp SP LP on ©  b a a a  TTF oD et  If P and Q are two orthogonal matrices of the same order, prove that their product is also orthogonal.  1 -1 2 -3 4 1 0 2 . Reducing to normal form, find the rank of matrix ° 3 0 4] . 10 1-0 2 “Ne  |  [W) |"
+"I) —  Find the eigen values and eigen vectors of the matrix |1_ 1  1 3  ! _—  Find a Fourier series for f(x) = x, —n<x<7. Find the half range sine series for the function f(x) = e* for0<x <7. Find the Laplace transform of _"
+a) t’cosat
+"b) pert  Find the Inverse Laplace transform of s  (s -— 3)(s” +4)  s(s +1) 6) log (s? +4)  If L{f(t)} = F(s), then prove L{e™ f(t)} = F(s— a)."
+dy dt
+11. The position vector of a moving particle at any time t is given by
+"10. Use the Laplace transform to solve “+ +42 43y =e, y(0)=y'(0)=1. t  > > > > r =(t? +1) i+ (4t-3) j+ (2t? -6)k. Find the velocity and acceleration at t = 1. Also find their magnitudes."
+12. Define divergence and curl of V . Prove that div(Curl V ) = 0.  > > > > > > 2
+"13. Evaluate [Far where F= Zi+x j+yk and C is the arc of curve, x = t +1, y= 2,  z=t fromt=1tot=2.  >  >> > > > :"
+"14. Evaluate JE. nds where F=xi+yj+zk and S is the outside of the lateral surface of  circular cylinder, x? + y’ = a” between planes z = 0 and z = 4.  2 .2"
+"15. Use Green’s theorem to find the area of ellipse, ~ +2 21,  +=  > ae > >"
+"16. Verify Stoke’s theorem for F=xi+z? j+y?k over the plane surface x +y+z=1  lying in first octant.  OR  > > > > , Verify Gauss’s theorem for F = 4x i-2y? j+z?k taken over the region bounded by x+y” =4,z=0 and z=3.  a whe  Ty ee ae sn fen"

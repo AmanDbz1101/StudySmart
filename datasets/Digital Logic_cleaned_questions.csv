@@ -1,0 +1,96 @@
+Questions
+ Explain BCD code with suitable examples
+" Simplify the function using K-map F=)(0, 1, 4, 8, 10, 11, 12) and D=2(2, 3, 6, 9, 15)"
+ Explain the operation of octal to binary encoder with necessary diagrams
+ Describe the importance of parity bits in communication system
+ Realize the circuit diagram for BCD decoder
+ Explain the operation of edge triggered S-R Flip-Flop with timing diagram and truth  table
+ Design half subtractor circuit using HDL
+ Design a synchronous sequential machine from the state diagram given below
+ Explain the operation of 4 bit serial in parallel out (SIPO) register with timing diagram
+ What is the role of hazards in asynchronous circuit design? Explain two bit magnitude comparator with necessary diagrams
+ Draw the schematic diagram of TTL NAND gate and explain about the transistor switch
+ With the help of block diagram explain the operation of Time measuring circuit
+ a) Define TTL IC Signal levels for Input and Output logic with example b) Convert 37.432 decimal number to binary. [3]
+ a) State and prove De-Morgan’s theorems with necessary diagrams b) What is Gray code? Explain with example. [2]
+ a) Minize the expression and implement the reduced expression by using NAND gates b) What do you mean by Max term? Explain with example. [3]
+" Design the 32:1 Multiplexer using 4:1 multiplexers tree concept and implement the function F= Y*(0,1,3,8,9"
+ a) Explain the operation of 3 bit magnitude comparator with truth table and draw the circuit b) Draw the circuit to add following bits 1011 and 1100. [3]
+ a) Write down the drawback of SR Flip-Flop b) Explain the operation of 4 bit serial in serial out (SISO) register with timing diagram. [5]
+ Explain the operation of 3 bit Asynchronous up/down counter with timing diagram
+ Design a synchronous sequential machine such that it gives output Z = 1 if input contains the message 110 and it retains in its own state for other condition giving output zero
+ What do you mean by static and dynamic hazards? Give example of static hazards and  explain how do you eliminate such hazards? [442]
+ With the help of block diagram explain the operation of frequency counter
+ Draw the schematic diagram of TTL NOR gate and explain about totem pole
+ a) Explain digital wave form based on TTL compatible logic b) What is the importance of De-morgan's laws? Show how a two-input NOR gate can be constructed from a two-input NAND gate. [4]
+ Convert decimal 39 into binary and hexadecimal
+" Simplify the function using K-map F= }°(0,1,4,8,10,1112) and D= > (2,3,6,9,15)"
+ a) What is an encoder? Draw the logic circuit of an encoder that converts Octal number into binary b) What is a multiplexer tree? Design the 16 to 1 multiplexer using 4 to 1 multiplexer. [1+4]
+" What is the Setup time and hold time of a flip-flop? With the help of excitation table and  K-map, convert R-S flip flop into D and J-K flip flops"
+" Describe the operation of 4 bit serial in Serial Out shift register, with timing diagram"
+ List the advantages and disadvantages of a synchronous counter over asynchronous  counter
+ Design a sequential machine that produces output Y = 1 when it detects the serial input  X= 100
+ Define fan-in and fan-out with reference to TTL
+" Draw the block diagram with decoders to show hour, minute and second"
+ Write short notes on: (any two) [2x3] i) Static and dynamic hazzard  ii) ROM  iii) DE-MUX tree  Bed
+ a) Perform the following code conversions i) (1110)gray = (?)Bcd it) (1430)10 = (?) Excess-3
+ Implement a full adder circuit using 4:1 Multiplexers
+ Draw the circuit diagram and explain the working principle of 4-bit parallel in serial out  (PISO) shift register
+" Simplify ¥51,2,3,8,10,13 + d(0,4,5,6,7,9,12) by using K-Map and write its standard SOP  expression"
+ Design 1:32 dimultiplexer tree using 1:8 DEMUXS and 1:2 DEMUXS only
+ Draw the schematic diagram of TTL Inverter
+ Derive characteristic equation of a JK flip flop
+ Differentiate between combinational and sequential circuits
+ Design a synchronous MOD-S counter along with block diagram and timing diagrams
+ Sketch block diagram of digital frequency counter and describe its operation
+" A sequential machine has to detect serial input sequance of 101, the machine output will be high"
+ Perform the following as indicated in the brackets: {2x4]
+ (101001001) pinary= (?)Gray We (93) 10= (7 )Excess-3 d
+ a) Describe commutative and associative laws of Boolean algebra with examples and simplify A+A'B=A+B b) Implement Excusive OR gate by using NAND gates only. [4]
+" Simplify 571,2,3,8,9,10,11,13,14+4(0,4,7,12) by using K-Map and write its standard product of sum (POS) expression"
+ Realize a full-subtractor using suitable demultiplexer and standard getes
+ Design a simplest logic circuit for 'b' segment of the BCD to 7 segment decoder
+ Design and draw the circuit diagram of a 3 bit gray code synchronous counter
+ Draw ripple decade counter and sketch its timing diagram
+ Draw 2-input TTL NAND gate and explain its working principle
+ How does second section of a digital clock work? Explain its working principle using block diagram
+ Design a sequential machine that has a single input 'x' and single output 'z'
+ Define digital signal and explain Gray code with example
+ Prove that positive X-OR is equivalent to negative X-NOR
+" a) Convert the following term into standard min term b) Use K-map method to implement the following function and also draw the reduced circuit using NOR gate. [5]  F (A, B, C, D) = Em (0, 2, 4, 6, 8, 10, 15) and d=Sm (3, 11, 14)"
+ a) Realize the logic circuit of the following using 8:1 MUX b) When FFy is ANDed with COy what will be the resulting number? Subtract (26) 10  from (16) 10 using 2’s complement binary method. [2+2]
+ a) Differentiate between level and Edge triggering? | [3] b) Explain the operation of two bit magnitude comparator with truth table and circuit diagram. [5]
+ a) Describe different typesof registers with diagram b) Illustrate how 1011 data can be stored and retrieve in parallel in serial out shift register with neat timing diagram and truth table. [8]
+ Differentiate synchronous and asynchronous sequential circuits
+ a) Define state diagram and state table with example b) Design a sequential machine that has one serial input and one output z. The machine is required to give an output z = 1 when the input X contains the message 110. [8]
+ Draw the schematic diagram of TTL two input NOR Gate
+ Explain briefly the block diagram of an instrument to measure frequency
+ Define digital IC signal levels
+ Construct the given Boolean function: F = (A+B) (C+D) E using NOR gates only
+" Simplify F (A,B,C,D) = x (0,2,5,8,10) + d(7,15)"
+ a) What is priority Encoder? Design octal to binary priority encoder b) Design a2 bit magnitude comparator. [4]
+ Design a combinational logic that performs multiplication between two 4 bit numbers using binary parallel adder and other gates
+ Draw the circuit diagram and explain the operation of positive edge triggered JK flip-flop
+ Explain the Serial in Serial out (SISO) shift register with timing diagram
+ Design the synchronous decade counter and also show the timing diagram
+" Design a sequential machine that detects three consecutive zeros from an input data stream X by making output, Y = 1"
+ Draw the schematic circuit for CMOS NAND gates
+ Describe the operation of a frequency counter
+ Explain Excess 3 code with suitable examples
+ Simplify the function using K-map F= >
+ Design a 32 to 1 multiplexer using 16 to 1 and 2 to I multiplexers
+ Design a 3-bit even parity generator and 4- bit even parity checker circuit
+ Draw the block diagram of n-bit full adder and explain its operation
+ Write down the drawbacks of SR flip flop
+" With clear circuit and timing diagram, explain the operation of Serial in - Serial out shift register"
+ Define ripple counter
+ Design a sequential machine that has one serial input and one output z
+ Describe the voltage profile of TTL
+ What is frequency counter? Explain with block diagram
+ Draw the general input output voltage profile for TTL gates and also mention the noise  vik WN  margin
+ Draw the schematic diagram of TTL NOR gate
+ Draw the circuit diagram of edge triggred JK flip fiop and explain it
+" What is a shift register? With clear timing diagram, describe the operation of a 4-bit  parallel - in serial - out (PISO) shift register"
+ What is a counter? Design a MOD - 6 synchronous counter
+ Design a synchronous state machine with the following specification: [12] a) No. of input:1
+" With an example, state and explain the problems associated in the design of asynchronous sequential circuit"

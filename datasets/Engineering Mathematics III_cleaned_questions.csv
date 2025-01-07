@@ -1,0 +1,142 @@
+Questions
+ Define the determinant as a function and using its properties
+" If A and B are orthogonal matrices of same order, prove that the product AB is also orthogonal"
+" Test the consistency of the system x—-2y+2z=4, 3x+y+4z=6 and x+y+z=1 and solve completely if found consistent"
+" Foramatrix A= ( , find the modal matrix and the corresponding diagonal matrix"
+ Prove that line integral 3 F
+" Verify Green’s theorem in the plane for (be ~8y"" jax +(4y- 6xy)dy] where C is region bounded by y=x? and x= y’"
+ Evaluate [Fen ds where F=6zi-4j+yk and S is the region of the plane 2x +3y+6z=12 bounded in the first octant
+" Evaluate using Gauss divergence theorem, f (Fa ds where F=x“yi+xy~ j+2xyzk and S is the surface bounded by the planes x = 0, y =0,z=0,x+2y+z=2"
+ Obtain the Fourier Series to represent f(x) =x—- x? from x =—m tox =7 and deduce that 
+ Obtain the half range Fourier Sine Series for f(x) = 1 - x in the range 0 <x <7
+ State the conditions for existence of Laplace transform
+ Find the inverse Laplace transform of:  I  - =f GDS +) = HS D (ii) cot” (S+))  (i)
+" Solve the following intial value problem by using Laplace transform:  y""+4y'+3y=e' , y(0)=0;y‘(0)=2"
+" Graphically maximize Z = 7x; + 10x2  Subject to constraints: 3x, +X, <9 X, +2x, $8 Kuk, 20"
+" Solve the following linear Programming Problem by simple method:  Maximize: Z=3x, +5x, Subject to: 3x, +2x"
+ If}b b* b?-1=0 — a+b #c; apply properties of dsterminaait to show abc = 1
+" If A be ann x n matrix, prove that Adj (A)"
+ Find the rank of the following matrix by reducing it into normal form: 2 ee la a s 8 -3 44 1 2 of
+ Find the modal matrix for the matrix  2-1-4 Asia? i 4 [5]  [5]  2 1 -1
+ State and prove Green’s theorem in plane
+" Find the total work done in moving the particle in a force field given by Fx Siny i+x(1+cosy)} over the circular path x? +y? =a”, z=0"
+" Evaluate [[Fas where Pox iy (ab and s is the surface of the cylinder x? +y? =a7,0<z<b"
+" Verify Stoke’s theorem for F =(x? +y”) i—2xy j taken round the rectangle bounded by  the lines x= +a,y=0,y=b"
+ Obtain Fourier series for f(x) = x? in the interval -n <x <7
+ State existence theorem for Laplace Transform a) te sint b) 14242]
+ Find the inverse Laplace transform of:  _— b) tan 2 s° —5s+6 s
+" By using Laplace transform, solve the initial value problem:  y"" + 2y=r(t), y(0) =y' (0) =0 Where r(t) = 1,0<t<1 = 0, otherwise"
+" Graphically maximize Z = 5x; + 3x2 Subject to constraints Xx, +2x, <50 2X, +X, 540"
+" Solve the following Linear Programming Problem by simple method:  Maximize : Z = 4x +3y  Subject to : 2x +3y <6 -x +2y <3 2y <5 a2xty<4 x, y 20"
+ Use properties of determinant to show [5]  x? a as yz y> y?-(z-xy zx|=(x-yMy-z(z—-x)(x+y+Z\(x’ +y? +2’)  z z’-(x-y) xy
+ Prove that every square matrix can be uniquely expressed as the sum of symmetric and a skew symmetric matrix
+ Define eigen values and eigen vectors in terms of linear transformation with matrices as operator
+" Test the consistency of the system x+y+z=3, x+2y+3z=4, 2x+3y+4z=7 by using rank of matrix method and solve if consistent"
+" If F is the gradient of some scalar point functions @ ic F=V, prove that the line integral is independent of the path joining any two points in the region and conversely"
+ Evaluate {[Fa ds
+ State and prove Green's theorem in plane
+" Apply Gauss’ divergence theorem to evaluate f { G - yz)i- 2x?y j+ 2K [a ds , where S  is the surface of the cube bounded by the planes x = 0, x =a, y=0, y=a,z=0,z=a"
+ Expand f(x) = x sinx as a Fourier series in-17 <x <7
+ Obtain half range cosine series for f(x) = x in the interval 0 <x <7
+ Find the Laplace transform of: = [3+2] i) t? cosat  ii) =  if
+""
+  LS
+ Use properties of determinants to prove: ja* + ab b? ac |=4a7b’c? [5] =< ab ob’ +be Oe” :
+ Prove that the necessary and sufficient condition for a square matrix A to posses an  inverse is that the matrix A should be non singular
+ Find the rank of the matrix [5] 2) =3-2 3 3 -3 3 by reducing it into normal form
+ Find the eigenvalues and eigenvectors of the matrix} 1 2 1 [4+1] 001 Give an example showing importance of eigenvectors
+ State and prove Green's Theorem in plane
+" Evaluate [[F-a ds, where F =z i+ Tx jt xyk and S is the surface of the sphere  x? +y? +z’ =1 in the first octant"
+" Evaluate [ xydx+xy’dy by applying stokes theorem where C is the square in xy-plane  with vertices (1,0), (-1,0), (0,1), (0,-1) [5]"
+" Find the Laplace transform of : [2+3] i) te sin3t =, © sint"
+" Find the inverse Laplace transform of : i) s+2 s°—45+413  ii) lo S** ‘i 4 s-a  Solve the following initial value problem using Laplace transform:  x""4+4x'44x=6e""', x(0)=-2, x'(0)=-8  Ble  fou"
+" Find the Fourier series representation of f(x) = {x| in [-z, 7]"
+" Obtain the half range Fourier Sine Series for the function f(x) = x’ in the interval (0, 3);"
+" Apply Graphical method to maximize, Z=5x, +3x, Subject to the constraints: X, +2x, <50 2x, +x, $40 x, 20, x, 20"
+" Solve the following Linear Programming Problem by Simplex method: Maximize: Z=15x, +10x, Subject to: x, +3x, $10 25, +X, S10 x, 20;-2,220  RK  [2+3]  [5]  [5]  [5] [5]  [10]"
+" Find the Laplace transform of: i [2+3] i) tSin?3t Sin2t 10, Find the inverse Laplace transform of: {2+3] ' 1 » s°—3s+2 —— s(s +1)"
+" Apply Laplace transform to solve the differential equation: [5]  y""t2y'+5y =e 'sint, x(0)=0,x'(0)=1"
+ Find a Fourier series to represent f(x) =x~ x? fromx =—-n to x=7
+ Develop f(x) = sin in half range Cosine Series in the range 0 < x < L
+" Graphically maximize, Bi Z=7x, +10x, Subject to constraints, 3x, +x, $9 x, +2x, $8 x, 20,4528"
+ Solve the following LPP using simplex method
+" Find the inverse Laplace transform of : ; , SS+1) s? a)"
+" Graphically maximize and minimize z= 9x + 40y subjected to the constraints y-x2 lLy-x<3,2<x<5"
+" Solve the following Linear Programming Problem by Simplex method: Maximize, P = 20x, —5x, Subjected to, 10x, —2x, $5  2x, +5x, <10andx,,x, 20  "
+ Using the properties of determinant prove  01 TRIBHUVAN UNIVERSITY {Exam INSTITUTE OF ENGINEERING | [Level | BE _ Full Marks | 80 Examination Control Division | ke Programme | All (Except B
+ Prove that (AB)' = B'A™ where A is the matrix of size mxp and B is the matrix of size pxn [5] 1 3 -2 1
+ Find the rank of the following matrix by reducing normal form
+ Find the eigen values and eigen vectors of the following matrix
+ Pr Ove that the line intergral ral f° F dr r is independent of the path joining any two points A  and Bina region if [F F dr r = 0 for any simple closed curve C in the region
+ E F
+" Evaluate, [{F"
+ Verify the stoke’s theorem for F =(2x-y)i- yz? j- y?zk where S is the upper part of  the sphere x? + y* +z” =a°C is its boundary
+ Find the inverse Laplace transform of (2) Sw  s°+5s-6 s‘—a‘
+" Solve the following differential equation by using Laplace transform y’’ty’-2y =x, y(0) = 1, y°(0) = 0"
+ Obtain the Fourior series for f(x) = x’ in the interval -1 <x < m and hence prove that
+" Obtain half range sine series for f(x) = mx- x’ in (0, 7)"
+" Graphically minimize z= 4x, +3x, +X; Subject to x, + 2x"
+" Minimize z= 8x, +9, Subject to x; +3X2 24  2x, +X, 25 with x,,x, 20  £*F  [5]  [2"
+" TRIBHUVAN UNIVERSITY INSTITUTE OF ENGINEERING _ Examination Control Division, | 2069 Ashad i)  Qa  Prove that every square matrix can be uniquely expressed as the sum of a symmetric a and a skew-symmetric matrices. , ,  : Find the rank of matrix: ‘reducing to echelon form. -  \w wn  | Ww NO ee"
+ -3  wmwoN w KH ws
+ Verify Cayley-flamiltan theorem for the matrix: | 4  ce 5y Find the Laplace transforms of: (a) te™ ‘sint (b) ef —00s6t
+" If L{ft)]=F(s), then prove that L{t*(O]-SF()-f(0)"
+ Solve the linear programming problems by simplex method constructing the duality  Minimize Z = 3xjt2x2 _ 
+ Prove that F= (2x2? +6y)i +(6x-2yz) j j Hore YK is conservative vector field and  find its scalar potential function
+ Evaluate J[Faes where F= x? i+y? jez? k and S$ is the finite plane | tye  between the co-ordinate planes
+" Using Green’ s theorem, find the area of the hypocyeloid = B saz le"
+ Evaluate [Fa ds where F= 2xi i+ 3yj j+4z k and Si is the surface of sphere apd =] by Gauss divergence theorem: 
+ Find the value of the determinant b? b?~-(c-a)* ca [5] c? ¢?-(a—b)? ab
+ Show that the matrix
+ Find the rank of the matrix 10 39 reducing this into the triangular form
+ Obtain the characteristic equation of the matrix A = |0 2 1 jand verify that it is 2 0 3  ™~  satisfied by A
+" Evaluate [F-a, where F =(x—y) i+ (x+y)j along the closed curve C bounded by y? =x and x’=y [5]  "
+" Find the value of the normal surface integral [Fn ds for F=xi-y j+(z’-Nk, where S is the surface bounded by the cylinder x? + y” = 4 between the planes Z = 0 and Z=1"
+" Using Green's theorem, find the area of the astroid x} + y3 =a [5]  > > » > , :"
+" Verify stoke's theorem for F =2y i+3x j-z? k where S is the upper half of the sphere x? +y? +z"" =9and C is its boundary"
+ Find the Laplace transforms of the following functions [2 a) te“ sin3t
+ State and prove the second shifting theorem of the Laplace transform
+ Solve the following differential equation using Laplace transform
+ Obtain the Fourier series for f(x) = x? in the interval -1 <x <x and hence show that - arr tar tart A
+ Express f(x) = x as a half-range sine series in 0 < x <2
+" Maximize Z = 4x,+5xz subject to constraints  2x, + 5x2 $25 1 2  xX; 2 Oand x"
+ Solve the following linear programming problem using the simplex method
+ Prove that: |b c al =| c? 2ac —b? a? |=(a?+b?+c?—3abc)*
+ Define Hermition and Skew Hermition matrix
+": For what value of 2 the’ equation:x + y + z=1, x + 4y + 10z = 7 and x + ay + 4z= LS have a solution? Solve them completely in each case"
+ State and prove Green theorem i ina 2 plane
+ Verify Guess divergence theorem for F =x i i+ 3 j +yz k
+ Find the Laplace transform of the given function (i) e sint (ii) cosat sinha {5]
+" Evaluate SRF ids where’ Fe -3i i+x j- yzk and s is the surface of the cylinder x+y =  9 included i in the first octant between the plane, z=0,2=4"
+""
+  
+" Using the properties of determinant prove that: rly a, iy * G+ +2 (%- 2"
+" If A and B are two non singular matrices of the same order, prove that (ABY? =BlAT"
+ Find the rank of the following matrix reducing to normal form 243 41 3 7 4 6 2-2 2
+ Find the eigen values and eigen vectors ofthe matrix|1 1 1 |
+ Find the Laplace transform of the following functions: a) te cos2t b) aie
+ Find the inverse Laplace transform of the following functions: a) —_1__ . b) ae | _ (s—2)(s+2)* s“(s+2)
+" Solve using Laplace transform (D? +4D + 3)x =e"", where x(0) =x’'(0) =1"
+ Obtain a Fourier series for f(x) = x? in the interval -n <x <1
+" Maximize Z = x, + 1"
+" Solve the following linear programming problems by simplex meihod  Maximize Z = 15x; + 10x2 Subject to 2x; + 2x2 < 10  Xt 3x2 <10 and x),x220"
+""
+""
+""
+  Show that the vector field F = (x? — yz)i+(y? —zx)}+(z? —xy)k is irrotational
+ State and prove the integral theorem of the Laplace transform
+ Solve the following differential equation using the Laplace transform
+ Express f(x) = x as a cosine half range series in 0 < x <2
+The acceleration of a moving particle at any time t is given by  > 2  = =12cos 2ti—8sin 2tj +16tk
+" Find the angle between the normals to the surface xy = z” at the points (1,4,2) and (-3,-3,3)"
+" Find the work done in moving a particle once round the circle x’ + y =9, z =0 under the  ; > > _ > 2 > » force field F given by F =(2x—y+z)i+(x+y-—z’) j+(3x—-—2y+4z)k"
+" Evaluate [fFen ds where s is the upper side of triangle with vertices (1,0,0), (0,1,0),  ~ (0,0,1) where"
+ State Green’s theorem in a plane
+" Verify Stoke’s theorem for F= = (2x - yi i- yz’ j- yz k where s is the upper part of the _ spherex’?+y’+z?=a"" and cisits boundary"
+ The position vector of a moving particle at any time t is given by
+" Use the Laplace transform to solve “+ +42 43y =e, y(0)=y'(0)=1"
+ Define divergence and curl of V 
+" Evaluate [Far where F= Zi+x j+yk and C is the arc of curve, x = t +1, y= 2,  z=t fromt=1tot=2"
+ Evaluate JE
+" Use Green’s theorem to find the area of ellipse, ~ +2 21,  +=  > ae > >"
+ Verify Stoke’s theorem for F=xi+z? j+y?k over the plane surface x +y+z=1  lying in first octant

@@ -1,0 +1,125 @@
+Questions
+"INSTITUTE OF ENGINEERING | BE | Full Marks | 80  Examination Control Division | Programme | BEL, BEX, BCT | Pass Marks 32 |  ceensemenere—envneee rereeneenntemrsseteenananteneneete  2075 Ashwin | Year / Part |W/1 |Time 3 hrs. |  Y Candidates are required to give their answers in their own words as far as practicable. ¥ Attempt All questions.  Y The figures in the margin indicate Full Marks.  Y Assume suitable data if necessary.  —y  _ Describe in your own words the characteristics of an analog and a digital signal. Convert A2.64H into its octal and decimal equivalents. {[2+4]"
+2. Explain BCD code with suitable examples. [5]
+"3. Simplify the function using K-map F=)(0, 1, 4, 8, 10, 11, 12) and D=2(2, 3, 6, 9, 15). Also realize the simplified circuit using NOR Gates. [442]"
+4. Explain the operation of octal to binary encoder with necessary diagrams. Convert A+B’C in to canonical form. [3+3]
+5. Describe the importance of parity bits in communication system. Explain 3 bits odd parity  generator circuit clearly. [3+3]
+6. Realize the circuit diagram for BCD decoder. Explain 1’s and 2’s complements with  examples? [3+3]
+7. Explain the operation of edge triggered S-R Flip-Flop with timing diagram and truth  table. [6]
+"8. Design half subtractor circuit using HDL. [4]  9, Define synchronous sequential circuits. Explain the operation of asynchronous mod-12 counter with necessary diagrams. [1+5]"
+10. Design a synchronous sequential machine from the state diagram given below. Use S-R Flip-Flop. [10]
+11. Explain the operation of 4 bit serial in parallel out (SIPO) register with timing diagram. [4]
+12. What is the role of hazards in asynchronous circuit design? Explain two bit magnitude comparator with necessary diagrams. [2+4]
+13. Draw the schematic diagram of TTL NAND gate and explain about the transistor switch. [2+3]
+14. With the help of block diagram explain the operation of Time measuring circuit. [4]  RK
+"17 TRIBHUVAN UNIVERSITY | Exam. INSTITUTE OF ENGINEERING | Level  Examination Control Division | Programme | BEL, BEX, BCT Pass Marks |32 |  2074 Chaitra | Year/Part _Il/I _Time [ 3 hrs. |  eS | ee Ee ee  Y Candidates are required to give their answers in their own words as far as practicable. Y Attempt All questions.  Y The figures in the margin indicate Full Marks.  ¥ Assume suitable data if necessary."
+1. a) Define TTL IC Signal levels for Input and Output logic with example. [3]
+b) Convert 37.432 decimal number to binary. [3]
+2. a) State and prove De-Morgan’s theorems with necessary diagrams. Prove that negative logic OR Gate is equivalent to positive logic AND Gate. [4+2]
+b) What is Gray code? Explain with example. [2]
+3. a) Minize the expression and implement the reduced expression by using NAND gates. F = ABCD + ABCD + ABCD + ABCD + ABCD + ABCD + ABCD + ABCD + ABCD [4+2]
+b) What do you mean by Max term? Explain with example. [3]
+"4. Design the 32:1 Multiplexer using 4:1 multiplexers tree concept and implement the function F= Y*(0,1,3,8,9.1 3) using suitable Multiplexer. [4+2]"
+5. a) Explain the operation of 3 bit magnitude comparator with truth table and draw the circuit. {5}
+b) Draw the circuit to add following bits 1011 and 1100. [3]
+6. a) Write down the drawback of SR Flip-Flop. Explain the operation of edge triggered JK Flip-Flop with timing diagram and truth table. [2+4]
+b) Explain the operation of 4 bit serial in serial out (SISO) register with timing diagram. [5]
+7. Explain the operation of 3 bit Asynchronous up/down counter with timing diagram. [6]
+8. Design a synchronous sequential machine such that it gives output Z = 1 if input contains the message 110 and it retains in its own state for other condition giving output zero. Use  J-K Flip-Flop. [10]
+9. What do you mean by static and dynamic hazards? Give example of static hazards and  explain how do you eliminate such hazards? [442]
+10. With the help of block diagram explain the operation of frequency counter. [4]
+11. Draw the schematic diagram of TTL NOR gate and explain about totem pole. [6]  HER
+"27 TRIBHUVAN UNIVERSITY  INSTITUTE OF ENGINEERING Full Marks | 80 Examination Control Division ([P ramme | BEL, BEX, BCT | Pass Marks | 32, a 2074 Ashwin ; aa  _ Subject: - Digital Logic (EX502) _  Y Candidates are er to give their answers in their own words as far as practicable. ¥ Attempt All questions.  Y The figures in the margin indicate Full Marks.  v Assume suitable data if necessary."
+1. a) Explain digital wave form based on TTL compatible logic. (Both for input and output) —‘[3]
+b) What is the importance of De-morgan's laws? Show how a two-input NOR gate can be constructed from a two-input NAND gate. [4]
+2. Convert decimal 39 into binary and hexadecimal. Use 2'S complement method to perform the following addition (-28+17) [2+3]
+"3. Simplify the function using K-map F= }°(0,1,4,8,10,1112) and D= > (2,3,6,9,15). Also realize the simplified logic circuit. [6]"
+4. a) What is an encoder? Draw the logic circuit of an encoder that converts Octal number into binary. [1+4]
+b) What is a multiplexer tree? Design the 16 to 1 multiplexer using 4 to 1 multiplexer. [1+4]
+"5. What is the Setup time and hold time of a flip-flop? With the help of excitation table and  K-map, convert R-S flip flop into D and J-K flip flops. [2+6]"
+"6. Describe the operation of 4 bit serial in Serial Out shift register, with timing diagram.  Consider the input 1011 to be entered into the register. [6]"
+7. List the advantages and disadvantages of a synchronous counter over asynchronous  counter. Design a 3 bit synchronous counter which follow gray’code sequence. [2+6]
+8. Design a sequential machine that produces output Y = 1 when it detects the serial input  X= 100. : [10]
+9. Define fan-in and fan-out with reference to TTL. With a circuit diagram explain the  operation of 2-bit TTL NAND gate. [2+6]
+"10. Draw the block diagram with decoders to show hour, minute and second. [6]"
+11. Write short notes on: (any two) [2x3]
+i) Static and dynamic hazzard  ii) ROM  iii) DE-MUX tree  Bed
+"24 TRIBHUVAN UNIVERSITY  INSTITUTE OF ENGINEERING Level Ss | BE __ Fal | Examination Control Division | Programme | BEL, BEX, BCT | Pass Marks | 32 “* 2073 Shrawan [Year/Part (W/T | Time | 3 hrs.  Y Candidates are required to give their answers in their own words as far as practicable. ¥ Attempt All questions.  Y The figures in the margin indicate Full Marks.  ¥ Assume suitable data if necessary."
+1. a) Perform the following code conversions. [3+2]
+i) (1110)gray = (?)Bcd it) (1430)10 = (?) Excess-3
+b) Construct two input XOR gate using minimum number of 2-input NAND gates only. {5]
+2. Implement a full adder circuit using 4:1 Multiplexers. [5]
+3. Draw the circuit diagram and explain the working principle of 4-bit parallel in serial out  (PISO) shift register. [7]
+"4. Simplify ¥51,2,3,8,10,13 + d(0,4,5,6,7,9,12) by using K-Map and write its standard SOP  expression. [6]."
+5. Design 1:32 dimultiplexer tree using 1:8 DEMUXS and 1:2 DEMUXS only. [6]
+6. Draw the schematic diagram of TTL Inverter. Explain the working principle of circuit. [3+4]
+7. Derive characteristic equation of a JK flip flop. How do you make it a toggle flip flop?  Draw the input and output wave form of JK flip flop. [3+24+2]
+8. Differentiate between combinational and sequential circuits. Explain BCD-to-Decimal  decoder circuit with suitable diagram. [2+6]
+9. Design a synchronous MOD-S counter along with block diagram and timing diagrams.  Also write the applications of counters and shift registers. [6]
+10. Sketch block diagram of digital frequency counter and describe its operation. [8]
+"11. A sequential machine has to detect serial input sequance of 101, the machine output will be high. The machine contains two JK flip flops, A and B. Assume: single input, x and single output Y. [12]  RK"
+"27 TRIBHUVAN UNIVERSITY (Exam. INSTITUTE OF ENGINEERING _Level zs |. Sees _| Full Marks | 80 Examination Control Division | joeane | BEL, BEX, BCT _Pass Marks (32 | ¥ Candidates are instil to give their answers in their own words as far as practicable. v¥ Attempt All questions. ¥ The figures in the margin indicate Full Marks. “ Assume suitable data if necessary."
+1. Perform the following as indicated in the brackets: {2x4]
+"6. (101001001) pinary= (?)Gray We (93) 10= (7 )Excess-3 d. (10.001)2-(11.101), using 2’s complement method."
+2. a) Describe commutative and associative laws of Boolean algebra with examples and simplify A+A'B=A+B. [2+2]
+b) Implement Excusive OR gate by using NAND gates only. [4]
+"3. Simplify 571,2,3,8,9,10,11,13,14+4(0,4,7,12) by using K-Map and write its standard product of sum (POS) expression. [443] 4, How do you design 32:1 Mux by using multiplexer tree? Implement logic function Ye ¥m(0,1,3,8,9,1 3,15) by using suitable multiplexer. [4+3]"
+5. Realize a full-subtractor using suitable demultiplexer and standard getes. [6]
+6. Design a simplest logic circuit for 'b' segment of the BCD to 7 segment decoder. [7]
+7. Design and draw the circuit diagram of a 3 bit gray code synchronous counter. [7]
+8. Draw ripple decade counter and sketch its timing diagram. [5+2]
+9. Draw 2-input TTL NAND gate and explain its working principle. [5]
+10. How does second section of a digital clock work? Explain its working principle using block diagram. [6]
+11. Design a sequential machine that has a single input 'x' and single output 'z'. The machine  is required to give high. output when it detects the serial sequence of 011 message. Use JK flip-flops énly. [12]  RK
+"24RE TRIBHUVAN UNIVERSITY  INSTITUTE OF ENGINEERING Level Examination Control Division | Programme | BEL,BEX,BCT Pass Marks _ __  Subject: - Digital Logic (EX502)  Y Candidates are required to give their answers in their own words as far as practicable. ¥ Attempt All questions.  v The figures in the margin indicate Full Marks.  VY Assume suitable data if necessary."
+1. Define digital signal and explain Gray code with example. [1+5]
+2. Prove that positive X-OR is equivalent to negative X-NOR. [5]
+3. a) Convert the following term into standard min term. A+B’C. [3]
+"b) Use K-map method to implement the following function and also draw the reduced circuit using NOR gate. [5]  F (A, B, C, D) = Em (0, 2, 4, 6, 8, 10, 15) and d=Sm (3, 11, 14)"
+"4. a) Realize the logic circuit of the following using 8:1 MUX. [4] F(W, X, Y, Z) = Em (1, 2, 5, 7, 8, 10, 12, 13, 15)"
+b) When FFy is ANDed with COy what will be the resulting number? Subtract (26) 10  from (16) 10 using 2’s complement binary method. [2+2]
+5. a) Differentiate between level and Edge triggering? | [3]
+b) Explain the operation of two bit magnitude comparator with truth table and circuit diagram. [5]
+6. a) Describe different typesof registers with diagram. [8]
+b) Illustrate how 1011 data can be stored and retrieve in parallel in serial out shift register with neat timing diagram and truth table. [8]
+7. Differentiate synchronous and asynchronous sequential circuits. Explain the operation of mod-12 synchronous counter with timing diagram. [2+6]
+8. a) Define state diagram and state table with example. [2]
+b) Design a sequential machine that has one serial input and one output z. The machine is required to give an output z = 1 when the input X contains the message 110. [8]
+9. Draw the schematic diagram of TTL two input NOR Gate. [6]
+10. Explain briefly the block diagram of an instrument to measure frequency. [5]  *ex
+| Level ___| BE anstrversererteinetemmmermeotennegst ta  INSTITUTE OF ENGINEERING | | Level | Full Marks 30  i  | Marks 80  Examination Control Division | programme | BE PP | pass Marks |32 | nae O_o SS ie ee  2069 Chaitra [Vear/Part [W/1 [Time Ths  Subject: - Digital Logic (EX502)  ¥ Candidates are required to give their answers in their own words as far as practicable. Vv Attempt All questions. v The figures in the margin indicate Full Marks. ¥ Assume suitable data if necessary.
+1. Define digital IC signal levels. What is Gray Code? Explain with example. {3+3]
+2. Construct the given Boolean function: F = (A+B) (C+D) E using NOR gates only. [4]
+"3. Simplify F (A,B,C,D) = x (0,2,5,8,10) + d(7,15). Write its standard SOP and implement _ the simplified circuit using NOR gates only. - [4+4]"
+4. a) What is priority Encoder? Design octal to binary priority encoder. [2+4]
+b) Design a2 bit magnitude comparator. [4]
+5. Design a combinational logic that performs multiplication between two 4 bit numbers using binary parallel adder and other gates. [8]
+6. Draw the circuit diagram and explain the operation of positive edge triggered JK flip-flop. What are the drawbacks of JK flip-flop? (7+1]
+7. Explain the Serial in Serial out (SISO) shift register with timing diagram. [4]
+8. Design the synchronous decade counter and also show the timing diagram. [8]
+"9. Design a sequential machine that detects three consecutive zeros from an input data stream X by making output, Y = 1. [12]"
+10. Draw the schematic circuit for CMOS NAND gates. What do you mean by totem-pole output? [4+4]
+11. Describe the operation of a frequency counter. . [4] 1K
+"25 TRIBHUVAN UNIVERSITY Exam. Regular INSTITUTE OF ENGINEERING 'Z | Full} al i” !  Examination Control Division 2068 Chaitra  v Candidates are required t to give their answers in their own words as far as practicable. Y Attempt All questions.  Vv The figures in the margin indicate Full Marks.  ¥ Assume suitable data if necessary.  List out the name of universal gates and why they are called universal gate? Relise Ex-  1, OR Gate using only NAND gates. SO [2+2]"
+2. Explain Excess 3 code with suitable examples. | an [6]
+"3. Simplify the function using K-map F= >.(0,1,4,8,10,11,12) and D = ¥(2, 3,6,9 19). Also _ convert the result into standard minterm. {3+5]"
+4. Design a 32 to 1 multiplexer using 16 to 1 and 2 to I multiplexers. . {5]
+5. Design a 3-bit even parity generator and 4- bit even parity checker circuit. [5]
+6. Draw the block diagram of n-bit full adder and explain its operation. [8]
+7. Write down the drawbacks of SR flip flop. Explain the operation of data flip flop with timing diagram and truth table. [1+7]
+"8. With clear circuit and timing diagram, explain the operation of Serial in - Serial out shift register. nod"
+9. Define ripple counter. Explain the operation of mode-10 ripple c counter with timing diagram. . . [1+7]
+10. Design a sequential machine that has one serial input and one output z. The machine is . required to give an output z = 1 when the input x contains the message 1010. . — f12)
+11. Describe the voltage profile of TTL. Explain the operation of TTL to CMOS interface. | [2+6] -
+12. What is frequency counter? Explain with block diagram. 7 (4) . TORK .
+"26 TRIBHUVAN UNIVERSITY  INSTITUTE OF ENGINEERING Examination Control Division © | Programme per BEX, 2068 Baishakh | Year (Part {U/T ° {Ti  — _ Subject: - Digital I Logic  v Candidates are required to give their answers in their own words as far as * practicable. Y Attempt All questions.  Y The figures in the margin indicate Full Marks. Y Assume suitable data if necessary."
+"1. Draw the general input output voltage profile for TTL gates and also mention the noise  vik WN  margin. What do you mean by Gray code? (3+1+2] Why NAND and NOR gates are called Universal gates? Illustrate with examples. [4] What do you mean by HDL? Design a 2 to 4 line decoder circuit using HDL. {2+3] Simplify 1(0, 4, 5, 8, 9, 11, 15) using K-Map and write its standard SOP expression. 1442] Draw the circuit of 4 bit RCA (Ripple Carry Adder), using only block diagrams. What are the problems associated with RCA. Explain how these problems can be eliminated. = [4+2+2]"
+6. Draw the schematic diagram of TTL NOR gate. Discuss the characteristics of TTL 74XX series gates. ; [6]
+7. Draw the circuit diagram of edge triggred JK flip fiop and explain it. [5]
+"8. What is a shift register? With clear timing diagram, describe the operation of a 4-bit  parallel - in serial - out (PISO) shift register. , — [2+6}"
+9. What is a counter? Design a MOD - 6 synchronous counter. ‘Draw its timing diagram.
+10. Design a synchronous state machine with the following specification: [12]
+a) No. of input:1
+b) No. of output:1
+"c) The output of the machine is to be set high when the data in the input is 110 in sequence, starting from the MSB (Use SR flip - flop)."
+"11. With an example, state and explain the problems associated in the design of asynchronous sequential circuit. [6]  _ 12. Design a two bit magnitude comparator. [6]  2K"
